@@ -21,3 +21,5 @@ Skills:
 - Pull Requests
 
 Status: Updated
+
+Student details are stored
