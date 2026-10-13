@@ -9,3 +9,15 @@ commit changes, push files to GitHub,
 and create a pull Requests
 
 Add new changing line
+Student Details
+
+Name: Pavithra
+Course: Git and GitHub
+Branch: feature/student
+
+Skills:
+- Git
+- GitHub Desktop
+- Pull Requests
+
+Status: Updated
