@@ -6,4 +6,20 @@ Topic: Branches and Pull Requests
 
 I am learning how to create a branch,
 commit changes, push files to GitHub,
-and create a pull request.
+and create a pull Requests
+
+Add new changing line
+Student Details
+
+Name: Pavithra
+Course: Git and GitHub
+Branch: feature/student
+
+Skills:
+- Git
+- GitHub Desktop
+- Pull Requests
+
+Status: Updated
+
+Student details are stored
